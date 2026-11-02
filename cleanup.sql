@@ -1,4 +1,4 @@
-USE ROLE accountadmin;
+-- USE ROLE accountadmin;
 USE WAREHOUSE compute_wh;
 
 USE DATABASE tasty_bytes;
